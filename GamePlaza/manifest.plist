@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>org.wandayu.lobby</string>
+				<string>org.cocos2dx.dw01</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>玩打鱼游戏中心</string>
+				<string>第一电玩城</string>
 			</dict>
 		</dict>
 	</array>
